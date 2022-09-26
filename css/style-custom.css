@@ -36,7 +36,7 @@ h6{ font-size: 16px; }
 .gdlr-menu-search input[type="text"]{ color: #ffffff; }
 body{ background-color: #303030; }
 .body-wrapper, .gdlr-single-lightbox-container{ background-color: #ffffff; }
-.gdlr-page-title, .gdlr-page-title-gimmick{ color: #3BB9FF; }
+.gdlr-page-title, .gdlr-page-title-gimmick{ color: #3BB9FF; text-align: center;}
 .gdlr-page-caption{ color: #ffffff; }
 h1, h2, h3, h4, h5, h6, .gdlr-title, .gdlr-title a{ color: #454545; }
 .gdlr-item-title-wrapper .gdlr-item-title{ color: #3e3e3e; border-color: #3e3e3e; }
