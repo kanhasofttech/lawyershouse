@@ -3,7 +3,7 @@ html.ltie9 body, body{ min-width: 1140px; } .container{ max-width: 1140px; } .gd
 .gdlr-logo{ max-width: 200px; }
 .gdlr-logo{ margin-bottom: 35px; }
 .gdlr-navigation-wrapper{ margin-top: 67px; }
-h1, h2, h3, h4, h5, h6, .gdlr-title-font{ font-family: "Open Sans"; }
+h1, h2, h3, h4, h5, h6, .gdlr-title-font{ font-family: "Cardo"; }
 body, input, textarea, select{ font-family: "Open Sans"; }
 .gdlr-navigation{ font-family: "Open Sans"; }
 .gdlr-slider-item{ font-family: "Open Sans"; }
@@ -19,7 +19,7 @@ h6{ font-size: 16px; }
 .top-navigation-wrapper a{ color: #ffffff; }
 .gdlr-header-inner{ background-color: #ffffff; }.gdlr-navigation-wrapper .gdlr-main-menu > li > a:before{ color: #ffffff; }
 .gdlr-main-menu > li > a{ color: #646363; }
-.gdlr-main-menu > li:hover > a, .gdlr-main-menu > li.current-menu-item > a, .gdlr-main-menu > li.current-menu-ancestor > a{ color: #3BB9FF; opacity: 1; filter: alpha(opacity=100); }.gdlr-navigation-wrapper .gdlr-main-menu > li:hover > a:before, .gdlr-navigation-wrapper .gdlr-main-menu > li.current-menu-item > a:before, .gdlr-navigation-wrapper .gdlr-main-menu > li.current-menu-ancestor > a:before{ color: #3BB9FF; }
+.gdlr-main-menu > li:hover > a, .gdlr-main-menu > li.current-menu-item > a, .gdlr-main-menu > li.current-menu-ancestor > a{ color: #297eb6; opacity: 1; filter: alpha(opacity=100); }.gdlr-navigation-wrapper .gdlr-main-menu > li:hover > a:before, .gdlr-navigation-wrapper .gdlr-main-menu > li.current-menu-item > a:before, .gdlr-navigation-wrapper .gdlr-main-menu > li.current-menu-ancestor > a:before{ color: #3BB9FF; }
 .gdlr-top-woocommerce-button{ background: url("../images/shopping-bag-dark.png"); }
 .gdlr-main-menu > .gdlr-normal-menu .sub-menu, .gdlr-main-menu > .gdlr-mega-menu .sf-mega{ border-top-color: #1c1c1c; }
 .gdlr-main-menu > .gdlr-normal-menu li , .gdlr-main-menu > .gdlr-mega-menu .sf-mega{ background-color: #303030; }
@@ -36,7 +36,7 @@ h6{ font-size: 16px; }
 .gdlr-menu-search input[type="text"]{ color: #ffffff; }
 body{ background-color: #303030; }
 .body-wrapper, .gdlr-single-lightbox-container{ background-color: #ffffff; }
-.gdlr-page-title, .gdlr-page-title-gimmick{ color: #3BB9FF; text-align: center;}
+.gdlr-page-title, .gdlr-page-title-gimmick{ color: #3e3e3e; text-align: center;}
 .gdlr-page-caption{ color: #ffffff; }
 h1, h2, h3, h4, h5, h6, .gdlr-title, .gdlr-title a{ color: #454545; }
 .gdlr-item-title-wrapper .gdlr-item-title{ color: #3e3e3e; border-color: #3e3e3e; }
